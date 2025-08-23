@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\File Kuliah\\ASPRAK PBO\\praktikum1\\praktikum1\\praktikum1.csproj": {}
+    "D:\\File Kuliah\\ASPRAK PBO\\Praktikum PBO SI 2025\\praktikum1\\praktikum1\\praktikum1.csproj": {}
   },
   "projects": {
-    "D:\\File Kuliah\\ASPRAK PBO\\praktikum1\\praktikum1\\praktikum1.csproj": {
+    "D:\\File Kuliah\\ASPRAK PBO\\Praktikum PBO SI 2025\\praktikum1\\praktikum1\\praktikum1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\File Kuliah\\ASPRAK PBO\\praktikum1\\praktikum1\\praktikum1.csproj",
+        "projectUniqueName": "D:\\File Kuliah\\ASPRAK PBO\\Praktikum PBO SI 2025\\praktikum1\\praktikum1\\praktikum1.csproj",
         "projectName": "praktikum1",
-        "projectPath": "D:\\File Kuliah\\ASPRAK PBO\\praktikum1\\praktikum1\\praktikum1.csproj",
+        "projectPath": "D:\\File Kuliah\\ASPRAK PBO\\Praktikum PBO SI 2025\\praktikum1\\praktikum1\\praktikum1.csproj",
         "packagesPath": "C:\\Users\\Dian Eka Raharjo\\.nuget\\packages\\",
-        "outputPath": "D:\\File Kuliah\\ASPRAK PBO\\praktikum1\\praktikum1\\obj\\",
+        "outputPath": "D:\\File Kuliah\\ASPRAK PBO\\Praktikum PBO SI 2025\\praktikum1\\praktikum1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

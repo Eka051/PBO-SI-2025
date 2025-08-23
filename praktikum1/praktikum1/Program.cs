@@ -20,9 +20,11 @@ char karakter = 'A';
 int angka = 12;
 
 // Long
-// Size = 8 byte. Digunakan untuk menyimpan angka dengan nominal yg cukup besar, Mulai dari -9,223,372,036,854,775,808 hingga 9,223,372,036,854,775,807
-// Biasanya digunakan untuk program yang berkaitan dengan presisi yang tinggi (misal perbankan & perusahaan besar spt Microsoft)
+// Size = 8 byte. Digunakan untuk menyimpan angka BULAT dengan jangkauan yang sangat besar.
+// Jangkauan: -9,223,372,036,854,775,808 hingga 9,223,372,036,854,775,807.
+// Cocok untuk data dengan angka bulat besar (misal ID database). Bisa ditambahkan huruf L di belakang valu
 long price = 120987;
+long population = 258905789900L;
 
 // Double
 // Size = 8 byte. Untuk menyimpan angka pecahan. Dapat menyimpan angka desimal 15 digit.
@@ -33,6 +35,9 @@ double harga = 45.89;
 float ukuran = 23.5F;
 
 // Decimal
+// Size = 16 byte. Untuk menyimpan angka pecahan dengan presisi tinggi, cocok untuk keuangan dan data akurat.
+// Menghindari kesalahan pembulatan yang terjadi pada float/double. Wajib pakai suffix 'M'.
+// Biasanya digunakan untuk program yang berkaitan dengan presisi yang tinggi (misal perbankan & perusahaan besar spt Microsoft)
 decimal ketinggian = 50.65M;
 
 // Boolean
@@ -156,5 +161,39 @@ Console.WriteLine($"Nama user adalah : {namaUser}");
 int tinggiBadan;
 tinggiBadan = 179;
 
+// Operator Logika
+// && -> digunakan untuk AND
+// || -> digunakan untuk OR
+
+bool izinMama = true;
+int umur = 20;
+
+if (izinMama && umur >= 20)
+{
+    Console.WriteLine("Boleh jadian");
+} else if (izinMama != true)
+{
+    Console.WriteLine("Minta restu & Bawa martabak");
+} else
+{
+    Console.WriteLine("Berdo'a pada yang maha kuasa");
+}
+
+int tabungan = 150;
+int usia = 21;
+
+if (usia >= 21 || tabungan >= 100)
+{
+    Console.WriteLine("Boleh nikah");
+} else
+{
+    Console.WriteLine("Kerja dulu");
+}
+
+// Operator NOT menggunakan tanda seru " ! "
+if (!izinMama) // kondisi ini nilainya not true / false
+{
+    Console.WriteLine("Bawa martabak pake pajero");
+}
 
 
