@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("praktikum1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f4ca9f1834a8c439e794b8dffbb0df4cf9da0f2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+430f8cd10e866b27a65245717a697dfd43885f74")]
 [assembly: System.Reflection.AssemblyProductAttribute("praktikum1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("praktikum1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
