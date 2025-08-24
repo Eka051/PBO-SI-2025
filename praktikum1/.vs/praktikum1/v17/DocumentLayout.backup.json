@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\File Kuliah\\ASPRAK PBO\\praktikum1\\",
+  "WorkspaceRootPath": "D:\\File Kuliah\\ASPRAK PBO\\Praktikum PBO SI 2025\\praktikum1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{28CAA26A-DF2E-4324-A28C-2B4CB93A8FB2}|praktikum1\\praktikum1.csproj|d:\\file kuliah\\asprak pbo\\praktikum1\\praktikum1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\File Kuliah\\ASPRAK PBO\\Praktikum PBO SI 2025\\praktikum1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAA26A-DF2E-4324-A28C-2B4CB93A8FB2}|praktikum1\\praktikum1.csproj|d:\\file kuliah\\asprak pbo\\praktikum pbo si 2025\\praktikum1\\praktikum1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28CAA26A-DF2E-4324-A28C-2B4CB93A8FB2}|praktikum1\\praktikum1.csproj|solutionrelative:praktikum1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -29,21 +33,34 @@
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\File Kuliah\\ASPRAK PBO\\Praktikum PBO SI 2025\\praktikum1\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\File Kuliah\\ASPRAK PBO\\Praktikum PBO SI 2025\\praktikum1\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-23T14:12:18.692Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\File Kuliah\\ASPRAK PBO\\praktikum1\\praktikum1\\Program.cs",
+              "DocumentMoniker": "D:\\File Kuliah\\ASPRAK PBO\\Praktikum PBO SI 2025\\praktikum1\\praktikum1\\Program.cs",
               "RelativeDocumentMoniker": "praktikum1\\Program.cs",
-              "ToolTip": "D:\\File Kuliah\\ASPRAK PBO\\praktikum1\\praktikum1\\Program.cs",
+              "ToolTip": "D:\\File Kuliah\\ASPRAK PBO\\Praktikum PBO SI 2025\\praktikum1\\praktikum1\\Program.cs",
               "RelativeToolTip": "praktikum1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJEAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-22T03:02:17.749Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

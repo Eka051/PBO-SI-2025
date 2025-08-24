@@ -196,4 +196,12 @@ if (!izinMama) // kondisi ini nilainya not true / false
     Console.WriteLine("Bawa martabak pake pajero");
 }
 
+// Operasi Aritmatika
+int num1 = 35;
+int num2 = 50;
 
+Console.WriteLine($"Hasil penjumlahan = {num1 + num2}");
+Console.WriteLine($"Hasil pengurangan = {num1 - num2}");
+Console.WriteLine($"Hasil pembagian = {num1 / num2}");
+Console.WriteLine($"Hasil perkalian = {num1 * num2}");
+Console.WriteLine($"Hasil modulus = {num1 % num2}");
