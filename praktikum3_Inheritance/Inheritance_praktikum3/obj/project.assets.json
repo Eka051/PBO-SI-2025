@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\File Kuliah\\ASPRAK PBO\\Praktikum PBO SI 2025\\Inheritance_praktikum3\\Inheritance_praktikum3\\Inheritance_praktikum3.csproj",
-      "projectName": "Inheritance_praktikum3",
-      "projectPath": "D:\\File Kuliah\\ASPRAK PBO\\Praktikum PBO SI 2025\\Inheritance_praktikum3\\Inheritance_praktikum3\\Inheritance_praktikum3.csproj",
+      "projectUniqueName": "D:\\File Kuliah\\ASPRAK PBO\\Praktikum PBO SI 2025\\Inheritance_praktikum3\\Inheritance_praktikum3\\praktikum3_Inheritance.csproj",
+      "projectName": "praktikum3_Inheritance",
+      "projectPath": "D:\\File Kuliah\\ASPRAK PBO\\Praktikum PBO SI 2025\\Inheritance_praktikum3\\Inheritance_praktikum3\\praktikum3_Inheritance.csproj",
       "packagesPath": "C:\\Users\\Dian Eka Raharjo\\.nuget\\packages\\",
       "outputPath": "D:\\File Kuliah\\ASPRAK PBO\\Praktikum PBO SI 2025\\Inheritance_praktikum3\\Inheritance_praktikum3\\obj\\",
       "projectStyle": "PackageReference",
