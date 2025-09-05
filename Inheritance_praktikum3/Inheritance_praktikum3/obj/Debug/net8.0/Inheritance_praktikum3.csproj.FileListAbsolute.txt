@@ -1,0 +1,15 @@
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\Inheritance_praktikum3\Inheritance_praktikum3\bin\Debug\net8.0\Inheritance_praktikum3.exe
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\Inheritance_praktikum3\Inheritance_praktikum3\bin\Debug\net8.0\Inheritance_praktikum3.deps.json
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\Inheritance_praktikum3\Inheritance_praktikum3\bin\Debug\net8.0\Inheritance_praktikum3.runtimeconfig.json
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\Inheritance_praktikum3\Inheritance_praktikum3\bin\Debug\net8.0\Inheritance_praktikum3.dll
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\Inheritance_praktikum3\Inheritance_praktikum3\bin\Debug\net8.0\Inheritance_praktikum3.pdb
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\Inheritance_praktikum3\Inheritance_praktikum3\obj\Debug\net8.0\Inheritance_praktikum3.GeneratedMSBuildEditorConfig.editorconfig
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\Inheritance_praktikum3\Inheritance_praktikum3\obj\Debug\net8.0\Inheritance_praktikum3.AssemblyInfoInputs.cache
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\Inheritance_praktikum3\Inheritance_praktikum3\obj\Debug\net8.0\Inheritance_praktikum3.AssemblyInfo.cs
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\Inheritance_praktikum3\Inheritance_praktikum3\obj\Debug\net8.0\Inheritance_praktikum3.csproj.CoreCompileInputs.cache
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\Inheritance_praktikum3\Inheritance_praktikum3\obj\Debug\net8.0\Inheritance_praktikum3.sourcelink.json
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\Inheritance_praktikum3\Inheritance_praktikum3\obj\Debug\net8.0\Inheritance_praktikum3.dll
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\Inheritance_praktikum3\Inheritance_praktikum3\obj\Debug\net8.0\refint\Inheritance_praktikum3.dll
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\Inheritance_praktikum3\Inheritance_praktikum3\obj\Debug\net8.0\Inheritance_praktikum3.pdb
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\Inheritance_praktikum3\Inheritance_praktikum3\obj\Debug\net8.0\Inheritance_praktikum3.genruntimeconfig.cache
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\Inheritance_praktikum3\Inheritance_praktikum3\obj\Debug\net8.0\ref\Inheritance_praktikum3.dll
