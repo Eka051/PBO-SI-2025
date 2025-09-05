@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Inheritance_praktikum3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88ebf457d5a54ef54a7dc61c9e8dff716af7ce60")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2579029558683ec975dab68c83214b510085aeb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Inheritance_praktikum3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Inheritance_praktikum3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

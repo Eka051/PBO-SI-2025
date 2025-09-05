@@ -12,6 +12,7 @@ class App
         persegiPanjang.panjang = 30;
         persegiPanjang.lebar = 5;
         persegiPanjang.HitungLuas();
+        Console.WriteLine($"Nilai panjang = {persegiPanjang.CekPanjang()} cm");
     }
 }
 
@@ -26,6 +27,11 @@ class PersegiPanjang : BangunDatar
     public void HitungLuas()
     {
         Console.WriteLine($"Luas persegi panjang = {panjang * lebar} cm2");
+    }
+
+    public int CekPanjang()
+    {
+        return panjang;
     }
 }
 
