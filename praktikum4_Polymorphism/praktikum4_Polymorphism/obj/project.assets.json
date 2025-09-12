@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\Praktikum PBO SI 2025\\praktikum1\\praktikum1\\praktikum1.csproj",
-      "projectName": "praktikum1",
-      "projectPath": "D:\\Project\\Praktikum PBO SI 2025\\praktikum1\\praktikum1\\praktikum1.csproj",
+      "projectUniqueName": "D:\\Project\\Praktikum PBO SI 2025\\praktikum4_Polymorphism\\praktikum4_Polymorphism\\praktikum4_Polymorphism.csproj",
+      "projectName": "praktikum4_Polymorphism",
+      "projectPath": "D:\\Project\\Praktikum PBO SI 2025\\praktikum4_Polymorphism\\praktikum4_Polymorphism\\praktikum4_Polymorphism.csproj",
       "packagesPath": "C:\\Users\\Dian Eka Raharjo\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\Praktikum PBO SI 2025\\praktikum1\\praktikum1\\obj\\",
+      "outputPath": "D:\\Project\\Praktikum PBO SI 2025\\praktikum4_Polymorphism\\praktikum4_Polymorphism\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

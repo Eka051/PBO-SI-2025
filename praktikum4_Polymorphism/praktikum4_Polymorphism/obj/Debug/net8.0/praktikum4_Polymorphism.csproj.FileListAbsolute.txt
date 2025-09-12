@@ -1,0 +1,30 @@
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\praktikum4_Polymorphism\praktikum4_Polymorphism\bin\Debug\net8.0\praktikum4_Polymorphism.exe
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\praktikum4_Polymorphism\praktikum4_Polymorphism\bin\Debug\net8.0\praktikum4_Polymorphism.deps.json
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\praktikum4_Polymorphism\praktikum4_Polymorphism\bin\Debug\net8.0\praktikum4_Polymorphism.runtimeconfig.json
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\praktikum4_Polymorphism\praktikum4_Polymorphism\bin\Debug\net8.0\praktikum4_Polymorphism.dll
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\praktikum4_Polymorphism\praktikum4_Polymorphism\bin\Debug\net8.0\praktikum4_Polymorphism.pdb
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\praktikum4_Polymorphism\praktikum4_Polymorphism\obj\Debug\net8.0\praktikum4_Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\praktikum4_Polymorphism\praktikum4_Polymorphism\obj\Debug\net8.0\praktikum4_Polymorphism.AssemblyInfoInputs.cache
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\praktikum4_Polymorphism\praktikum4_Polymorphism\obj\Debug\net8.0\praktikum4_Polymorphism.AssemblyInfo.cs
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\praktikum4_Polymorphism\praktikum4_Polymorphism\obj\Debug\net8.0\praktikum4_Polymorphism.csproj.CoreCompileInputs.cache
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\praktikum4_Polymorphism\praktikum4_Polymorphism\obj\Debug\net8.0\praktikum4_Polymorphism.sourcelink.json
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\praktikum4_Polymorphism\praktikum4_Polymorphism\obj\Debug\net8.0\praktikum4_Polymorphism.dll
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\praktikum4_Polymorphism\praktikum4_Polymorphism\obj\Debug\net8.0\refint\praktikum4_Polymorphism.dll
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\praktikum4_Polymorphism\praktikum4_Polymorphism\obj\Debug\net8.0\praktikum4_Polymorphism.pdb
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\praktikum4_Polymorphism\praktikum4_Polymorphism\obj\Debug\net8.0\praktikum4_Polymorphism.genruntimeconfig.cache
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\praktikum4_Polymorphism\praktikum4_Polymorphism\obj\Debug\net8.0\ref\praktikum4_Polymorphism.dll
+D:\Project\Praktikum PBO SI 2025\praktikum4_Polymorphism\praktikum4_Polymorphism\bin\Debug\net8.0\praktikum4_Polymorphism.exe
+D:\Project\Praktikum PBO SI 2025\praktikum4_Polymorphism\praktikum4_Polymorphism\bin\Debug\net8.0\praktikum4_Polymorphism.deps.json
+D:\Project\Praktikum PBO SI 2025\praktikum4_Polymorphism\praktikum4_Polymorphism\bin\Debug\net8.0\praktikum4_Polymorphism.runtimeconfig.json
+D:\Project\Praktikum PBO SI 2025\praktikum4_Polymorphism\praktikum4_Polymorphism\bin\Debug\net8.0\praktikum4_Polymorphism.dll
+D:\Project\Praktikum PBO SI 2025\praktikum4_Polymorphism\praktikum4_Polymorphism\bin\Debug\net8.0\praktikum4_Polymorphism.pdb
+D:\Project\Praktikum PBO SI 2025\praktikum4_Polymorphism\praktikum4_Polymorphism\obj\Debug\net8.0\praktikum4_Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Praktikum PBO SI 2025\praktikum4_Polymorphism\praktikum4_Polymorphism\obj\Debug\net8.0\praktikum4_Polymorphism.AssemblyInfoInputs.cache
+D:\Project\Praktikum PBO SI 2025\praktikum4_Polymorphism\praktikum4_Polymorphism\obj\Debug\net8.0\praktikum4_Polymorphism.AssemblyInfo.cs
+D:\Project\Praktikum PBO SI 2025\praktikum4_Polymorphism\praktikum4_Polymorphism\obj\Debug\net8.0\praktikum4_Polymorphism.csproj.CoreCompileInputs.cache
+D:\Project\Praktikum PBO SI 2025\praktikum4_Polymorphism\praktikum4_Polymorphism\obj\Debug\net8.0\praktikum4_Polymorphism.sourcelink.json
+D:\Project\Praktikum PBO SI 2025\praktikum4_Polymorphism\praktikum4_Polymorphism\obj\Debug\net8.0\praktikum4_Polymorphism.dll
+D:\Project\Praktikum PBO SI 2025\praktikum4_Polymorphism\praktikum4_Polymorphism\obj\Debug\net8.0\refint\praktikum4_Polymorphism.dll
+D:\Project\Praktikum PBO SI 2025\praktikum4_Polymorphism\praktikum4_Polymorphism\obj\Debug\net8.0\praktikum4_Polymorphism.pdb
+D:\Project\Praktikum PBO SI 2025\praktikum4_Polymorphism\praktikum4_Polymorphism\obj\Debug\net8.0\praktikum4_Polymorphism.genruntimeconfig.cache
+D:\Project\Praktikum PBO SI 2025\praktikum4_Polymorphism\praktikum4_Polymorphism\obj\Debug\net8.0\ref\praktikum4_Polymorphism.dll
