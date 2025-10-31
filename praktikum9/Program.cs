@@ -15,8 +15,8 @@ namespace praktikum9
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             Env.Load();
-            LoginContext context = new LoginContext();
-            Application.Run(new Hallogin(context));
+            RegisterContext context = new RegisterContext();
+            Application.Run(new Form1(context));
         }
     }
 }

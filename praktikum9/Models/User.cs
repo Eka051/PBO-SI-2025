@@ -21,13 +21,13 @@ namespace praktikum9.Models
         public string username
         {
             get { return Username; }
-            set { username = value; }
+            set { Username = value; }
         }
 
         public string password
         {
             get { return Password; }
-            set { password = value; }
+            set { Password = value; }
         }
     }
 }

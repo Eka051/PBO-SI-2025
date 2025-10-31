@@ -1,26 +1,51 @@
 using Npgsql;
+using praktikum9.Models;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 
 namespace praktikum9
 {
     public partial class Form1 : Form
     {
-        public Form1()
+        private readonly RegisterContext _registerContext;
+        public Form1(RegisterContext registerContext)
         {
             InitializeComponent();
+            _registerContext = registerContext;
         }
 
         private void BtnRegister_Click(object sender, EventArgs e)
         {
-            string username = TBUsername.Text;
-            string password = TBPassword.Text;
+            User users = new User();  
+            users.username = TBUsername.Text;
+            users.password= TBPassword.Text;
 
-            if (string.IsNullOrWhiteSpace(username) || string.IsNullOrWhiteSpace(password))
+            try
             {
-                MessageBox.Show("Username atau password harus diisi!", "Tidak Valid",
-                    MessageBoxButtons.OK, MessageBoxIcon.Error
-                );
-                return;
+                var auth = _registerContext.Register(users);
+                if (auth)
+                {
+                    MessageBox.Show("Anda Berhasil Register", "Sukses",
+                        MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
             }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Gagal Register {ex}", "Gagal",
+                    MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+
+
+
+
+
+
+            //if (string.IsNullOrWhiteSpace(username) || string.IsNullOrWhiteSpace(password))
+            //{
+            //    MessageBox.Show("Username atau password harus diisi!", "Tidak Valid",
+            //        MessageBoxButtons.OK, MessageBoxIcon.Error
+            //    );
+            //    return;
+            //}
 
             //users.Add(new User { Username = username, Password = password });
             //try

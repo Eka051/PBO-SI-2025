@@ -23,18 +23,26 @@ namespace praktikum9
 
             try
             {
-               var auth = _loginContext.Login(username, password);
+                var auth = _loginContext.Login(username, password);
                 if (auth)
                 {
                     MessageBox.Show("Anda Berhasil Login", "Sukses",
                         MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
-            } catch (Exception ex)
+            }
+            catch (Exception ex)
             {
                 MessageBox.Show($"Gagal Login {ex}", "Gagal",
                     MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
 
         }
+
+        //private void button1_Click(object sender, EventArgs e)
+        //{
+        //    this.Close();
+        //    Form1 halregister = new Form1();
+
+        //}
     }
 }

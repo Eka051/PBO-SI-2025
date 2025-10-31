@@ -1,34 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Project\\Praktikum PBO SI 2025\\praktikum9\\",
+  "WorkspaceRootPath": "D:\\PraktikumPB02025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C786D9F5-CCC8-4512-90DB-B2C1D7A80A74}|praktikum9\\praktikum9.csproj|d:\\project\\praktikum pbo si 2025\\praktikum9\\praktikum9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C786D9F5-CCC8-4512-90DB-B2C1D7A80A74}|praktikum9\\praktikum9.csproj|solutionrelative:praktikum9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C786D9F5-CCC8-4512-90DB-B2C1D7A80A74}|praktikum9\\praktikum9.csproj|d:\\praktikumpb02025\\praktikum9\\view\\hallogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C786D9F5-CCC8-4512-90DB-B2C1D7A80A74}|praktikum9\\praktikum9.csproj|solutionrelative:praktikum9\\view\\hallogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C786D9F5-CCC8-4512-90DB-B2C1D7A80A74}|praktikum9\\praktikum9.csproj|d:\\project\\praktikum pbo si 2025\\praktikum9\\praktikum9\\models\\logincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C786D9F5-CCC8-4512-90DB-B2C1D7A80A74}|praktikum9\\praktikum9.csproj|solutionrelative:praktikum9\\models\\logincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C786D9F5-CCC8-4512-90DB-B2C1D7A80A74}|praktikum9\\praktikum9.csproj|d:\\praktikumpb02025\\praktikum9\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C786D9F5-CCC8-4512-90DB-B2C1D7A80A74}|praktikum9\\praktikum9.csproj|solutionrelative:praktikum9\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C786D9F5-CCC8-4512-90DB-B2C1D7A80A74}|praktikum9\\praktikum9.csproj|d:\\project\\praktikum pbo si 2025\\praktikum9\\praktikum9\\hallogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C786D9F5-CCC8-4512-90DB-B2C1D7A80A74}|praktikum9\\praktikum9.csproj|solutionrelative:praktikum9\\hallogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C786D9F5-CCC8-4512-90DB-B2C1D7A80A74}|praktikum9\\praktikum9.csproj|d:\\praktikumpb02025\\praktikum9\\models\\registercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C786D9F5-CCC8-4512-90DB-B2C1D7A80A74}|praktikum9\\praktikum9.csproj|solutionrelative:praktikum9\\models\\registercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C786D9F5-CCC8-4512-90DB-B2C1D7A80A74}|praktikum9\\praktikum9.csproj|d:\\project\\praktikum pbo si 2025\\praktikum9\\praktikum9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C786D9F5-CCC8-4512-90DB-B2C1D7A80A74}|praktikum9\\praktikum9.csproj|d:\\praktikumpb02025\\praktikum9\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C786D9F5-CCC8-4512-90DB-B2C1D7A80A74}|praktikum9\\praktikum9.csproj|solutionrelative:praktikum9\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C786D9F5-CCC8-4512-90DB-B2C1D7A80A74}|praktikum9\\praktikum9.csproj|d:\\praktikumpb02025\\praktikum9\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C786D9F5-CCC8-4512-90DB-B2C1D7A80A74}|praktikum9\\praktikum9.csproj|solutionrelative:praktikum9\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C786D9F5-CCC8-4512-90DB-B2C1D7A80A74}|praktikum9\\praktikum9.csproj|d:\\praktikumpb02025\\praktikum9\\view\\hallogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C786D9F5-CCC8-4512-90DB-B2C1D7A80A74}|praktikum9\\praktikum9.csproj|solutionrelative:praktikum9\\view\\hallogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C786D9F5-CCC8-4512-90DB-B2C1D7A80A74}|praktikum9\\praktikum9.csproj|d:\\praktikumpb02025\\praktikum9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C786D9F5-CCC8-4512-90DB-B2C1D7A80A74}|praktikum9\\praktikum9.csproj|solutionrelative:praktikum9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C786D9F5-CCC8-4512-90DB-B2C1D7A80A74}|praktikum9\\praktikum9.csproj|d:\\project\\praktikum pbo si 2025\\praktikum9\\praktikum9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C786D9F5-CCC8-4512-90DB-B2C1D7A80A74}|praktikum9\\praktikum9.csproj|solutionrelative:praktikum9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C786D9F5-CCC8-4512-90DB-B2C1D7A80A74}|praktikum9\\praktikum9.csproj|d:\\praktikumpb02025\\praktikum9\\view\\hallogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C786D9F5-CCC8-4512-90DB-B2C1D7A80A74}|praktikum9\\praktikum9.csproj|solutionrelative:praktikum9\\view\\hallogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C786D9F5-CCC8-4512-90DB-B2C1D7A80A74}|praktikum9\\praktikum9.csproj|d:\\project\\praktikum pbo si 2025\\praktikum9\\praktikum9\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C786D9F5-CCC8-4512-90DB-B2C1D7A80A74}|praktikum9\\praktikum9.csproj|d:\\praktikumpb02025\\praktikum9\\models\\logincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C786D9F5-CCC8-4512-90DB-B2C1D7A80A74}|praktikum9\\praktikum9.csproj|solutionrelative:praktikum9\\models\\logincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C786D9F5-CCC8-4512-90DB-B2C1D7A80A74}|praktikum9\\praktikum9.csproj|d:\\praktikumpb02025\\praktikum9\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C786D9F5-CCC8-4512-90DB-B2C1D7A80A74}|praktikum9\\praktikum9.csproj|solutionrelative:praktikum9\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C786D9F5-CCC8-4512-90DB-B2C1D7A80A74}|praktikum9\\praktikum9.csproj|d:\\project\\praktikum pbo si 2025\\praktikum9\\praktikum9\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C786D9F5-CCC8-4512-90DB-B2C1D7A80A74}|praktikum9\\praktikum9.csproj|solutionrelative:praktikum9\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{C786D9F5-CCC8-4512-90DB-B2C1D7A80A74}|praktikum9\\praktikum9.csproj|d:\\praktikumpb02025\\praktikum9\\praktikum9.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C786D9F5-CCC8-4512-90DB-B2C1D7A80A74}|praktikum9\\praktikum9.csproj|solutionrelative:praktikum9\\praktikum9.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,25 +54,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 261,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Project\\Praktikum PBO SI 2025\\praktikum9\\praktikum9\\Form1.cs",
-              "RelativeDocumentMoniker": "praktikum9\\Form1.cs",
-              "ToolTip": "D:\\Project\\Praktikum PBO SI 2025\\praktikum9\\praktikum9\\Form1.cs",
-              "RelativeToolTip": "praktikum9\\Form1.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwC4AAAAPAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\PraktikumPB02025\\praktikum9\\View\\Form1.cs",
+              "RelativeDocumentMoniker": "praktikum9\\View\\Form1.cs",
+              "ToolTip": "D:\\PraktikumPB02025\\praktikum9\\View\\Form1.cs",
+              "RelativeToolTip": "praktikum9\\View\\Form1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIAwwBUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-17T11:11:51.852Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "praktikum9",
+              "DocumentMoniker": "D:\\PraktikumPB02025\\praktikum9\\praktikum9.csproj",
+              "RelativeDocumentMoniker": "praktikum9\\praktikum9.csproj",
+              "ToolTip": "D:\\PraktikumPB02025\\praktikum9\\praktikum9.csproj",
+              "RelativeToolTip": "praktikum9\\praktikum9.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-31T12:59:50.523Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Bookmark",
@@ -68,52 +121,77 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginContext.cs",
-              "DocumentMoniker": "D:\\Project\\Praktikum PBO SI 2025\\praktikum9\\praktikum9\\Models\\LoginContext.cs",
-              "RelativeDocumentMoniker": "praktikum9\\Models\\LoginContext.cs",
-              "ToolTip": "D:\\Project\\Praktikum PBO SI 2025\\praktikum9\\praktikum9\\Models\\LoginContext.cs",
-              "RelativeToolTip": "praktikum9\\Models\\LoginContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T11:47:21.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "User.cs",
-              "DocumentMoniker": "D:\\Project\\Praktikum PBO SI 2025\\praktikum9\\praktikum9\\Models\\User.cs",
+              "DocumentMoniker": "D:\\PraktikumPB02025\\praktikum9\\Models\\User.cs",
               "RelativeDocumentMoniker": "praktikum9\\Models\\User.cs",
-              "ToolTip": "D:\\Project\\Praktikum PBO SI 2025\\praktikum9\\praktikum9\\Models\\User.cs",
+              "ToolTip": "D:\\PraktikumPB02025\\praktikum9\\Models\\User.cs",
               "RelativeToolTip": "praktikum9\\Models\\User.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-31T11:40:09.67Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": ".env",
-              "DocumentMoniker": "D:\\Project\\Praktikum PBO SI 2025\\praktikum9\\praktikum9\\.env",
+              "DocumentMoniker": "D:\\PraktikumPB02025\\praktikum9\\.env",
               "RelativeDocumentMoniker": "praktikum9\\.env",
-              "ToolTip": "D:\\Project\\Praktikum PBO SI 2025\\praktikum9\\praktikum9\\.env",
+              "ToolTip": "D:\\PraktikumPB02025\\praktikum9\\.env",
               "RelativeToolTip": "praktikum9\\.env",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-10-31T10:17:12.055Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hallogin.cs [Design]",
+              "DocumentMoniker": "D:\\PraktikumPB02025\\praktikum9\\View\\Hallogin.cs",
+              "RelativeDocumentMoniker": "praktikum9\\View\\Hallogin.cs",
+              "ToolTip": "D:\\PraktikumPB02025\\praktikum9\\View\\Hallogin.cs [Design]",
+              "RelativeToolTip": "praktikum9\\View\\Hallogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T12:54:43.161Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "RegisterContext.cs",
+              "DocumentMoniker": "D:\\PraktikumPB02025\\praktikum9\\Models\\RegisterContext.cs",
+              "RelativeDocumentMoniker": "praktikum9\\Models\\RegisterContext.cs",
+              "ToolTip": "D:\\PraktikumPB02025\\praktikum9\\Models\\RegisterContext.cs",
+              "RelativeToolTip": "praktikum9\\Models\\RegisterContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T12:57:40.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hallogin.Designer.cs",
+              "DocumentMoniker": "D:\\PraktikumPB02025\\praktikum9\\View\\Hallogin.Designer.cs",
+              "RelativeDocumentMoniker": "praktikum9\\View\\Hallogin.Designer.cs",
+              "ToolTip": "D:\\PraktikumPB02025\\praktikum9\\View\\Hallogin.Designer.cs",
+              "RelativeToolTip": "praktikum9\\View\\Hallogin.Designer.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAIwGsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T13:31:49.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Hallogin.cs",
-              "DocumentMoniker": "D:\\Project\\Praktikum PBO SI 2025\\praktikum9\\praktikum9\\Hallogin.cs",
-              "RelativeDocumentMoniker": "praktikum9\\Hallogin.cs",
-              "ToolTip": "D:\\Project\\Praktikum PBO SI 2025\\praktikum9\\praktikum9\\Hallogin.cs",
-              "RelativeToolTip": "praktikum9\\Hallogin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\PraktikumPB02025\\praktikum9\\View\\Hallogin.cs",
+              "RelativeDocumentMoniker": "praktikum9\\View\\Hallogin.cs",
+              "ToolTip": "D:\\PraktikumPB02025\\praktikum9\\View\\Hallogin.cs",
+              "RelativeToolTip": "praktikum9\\View\\Hallogin.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwC0AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-17T12:29:46.119Z",
               "EditorCaption": ""
@@ -122,31 +200,38 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Project\\Praktikum PBO SI 2025\\praktikum9\\praktikum9\\Form1.cs",
-              "RelativeDocumentMoniker": "praktikum9\\Form1.cs",
-              "ToolTip": "D:\\Project\\Praktikum PBO SI 2025\\praktikum9\\praktikum9\\Form1.cs [Design]",
-              "RelativeToolTip": "praktikum9\\Form1.cs [Design]",
+              "DocumentMoniker": "D:\\PraktikumPB02025\\praktikum9\\View\\Form1.cs",
+              "RelativeDocumentMoniker": "praktikum9\\View\\Form1.cs",
+              "ToolTip": "D:\\PraktikumPB02025\\praktikum9\\View\\Form1.cs [Design]",
+              "RelativeToolTip": "praktikum9\\View\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-17T12:14:58.528Z",
               "EditorCaption": " [Design]"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 139,
-          "SelectedChildIndex": 0,
-          "Children": [
+            },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Project\\Praktikum PBO SI 2025\\praktikum9\\praktikum9\\Program.cs",
+              "DocumentMoniker": "D:\\PraktikumPB02025\\praktikum9\\Program.cs",
               "RelativeDocumentMoniker": "praktikum9\\Program.cs",
-              "ToolTip": "D:\\Project\\Praktikum PBO SI 2025\\praktikum9\\praktikum9\\Program.cs",
+              "ToolTip": "D:\\PraktikumPB02025\\praktikum9\\Program.cs",
               "RelativeToolTip": "praktikum9\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T12:43:11.363Z",
+              "WhenOpened": "2025-10-31T13:12:48.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginContext.cs",
+              "DocumentMoniker": "D:\\PraktikumPB02025\\praktikum9\\Models\\LoginContext.cs",
+              "RelativeDocumentMoniker": "praktikum9\\Models\\LoginContext.cs",
+              "ToolTip": "D:\\PraktikumPB02025\\praktikum9\\Models\\LoginContext.cs",
+              "RelativeToolTip": "praktikum9\\Models\\LoginContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T11:47:21.605Z",
               "EditorCaption": ""
             }
           ]

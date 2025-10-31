@@ -34,73 +34,92 @@
             label2 = new Label();
             label3 = new Label();
             btnLogin = new Button();
+            button1 = new Button();
             SuspendLayout();
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Font = new Font("Montserrat SemiBold", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label1.Location = new Point(295, 72);
+            label1.Font = new Font("Microsoft Sans Serif", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label1.Location = new Point(369, 90);
+            label1.Margin = new Padding(4, 0, 4, 0);
             label1.Name = "label1";
-            label1.Size = new Size(203, 33);
+            label1.Size = new Size(224, 33);
             label1.TabIndex = 0;
             label1.Text = "Halaman Login";
             label1.Click += label1_Click;
             // 
             // tbusernamelog
             // 
-            tbusernamelog.Location = new Point(262, 168);
+            tbusernamelog.Location = new Point(328, 210);
+            tbusernamelog.Margin = new Padding(4, 4, 4, 4);
             tbusernamelog.Name = "tbusernamelog";
-            tbusernamelog.Size = new Size(253, 27);
+            tbusernamelog.Size = new Size(315, 31);
             tbusernamelog.TabIndex = 1;
             // 
             // tbpasswordlog
             // 
-            tbpasswordlog.Location = new Point(262, 233);
+            tbpasswordlog.Location = new Point(328, 291);
+            tbpasswordlog.Margin = new Padding(4, 4, 4, 4);
             tbpasswordlog.Name = "tbpasswordlog";
-            tbpasswordlog.Size = new Size(253, 27);
+            tbpasswordlog.Size = new Size(315, 31);
             tbpasswordlog.TabIndex = 2;
             tbpasswordlog.UseSystemPasswordChar = true;
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(262, 145);
+            label2.Location = new Point(328, 181);
+            label2.Margin = new Padding(4, 0, 4, 0);
             label2.Name = "label2";
-            label2.Size = new Size(75, 20);
+            label2.Size = new Size(91, 25);
             label2.TabIndex = 3;
             label2.Text = "Username";
             // 
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(262, 210);
+            label3.Location = new Point(328, 262);
+            label3.Margin = new Padding(4, 0, 4, 0);
             label3.Name = "label3";
-            label3.Size = new Size(70, 20);
+            label3.Size = new Size(87, 25);
             label3.TabIndex = 4;
             label3.Text = "Password";
             // 
             // btnLogin
             // 
-            btnLogin.Location = new Point(262, 289);
+            btnLogin.Location = new Point(328, 361);
+            btnLogin.Margin = new Padding(4, 4, 4, 4);
             btnLogin.Name = "btnLogin";
-            btnLogin.Size = new Size(253, 29);
+            btnLogin.Size = new Size(223, 36);
             btnLogin.TabIndex = 5;
             btnLogin.Text = "Login";
             btnLogin.UseVisualStyleBackColor = true;
             btnLogin.Click += btnLogin_Click;
             // 
+            // button1
+            // 
+            button1.Location = new Point(558, 363);
+            button1.Name = "button1";
+            button1.Size = new Size(85, 34);
+            button1.TabIndex = 6;
+            button1.Text = "Register";
+            button1.UseVisualStyleBackColor = true;
+   
+            // 
             // Hallogin
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(1000, 562);
+            Controls.Add(button1);
             Controls.Add(btnLogin);
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(tbpasswordlog);
             Controls.Add(tbusernamelog);
             Controls.Add(label1);
+            Margin = new Padding(4, 4, 4, 4);
             Name = "Hallogin";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Hallogin";
@@ -116,5 +135,6 @@
         private Label label2;
         private Label label3;
         private Button btnLogin;
+        private Button button1;
     }
 }

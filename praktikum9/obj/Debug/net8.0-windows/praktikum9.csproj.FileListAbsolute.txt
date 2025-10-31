@@ -27,3 +27,32 @@ D:\Project\Praktikum PBO SI 2025\praktikum9\praktikum9\bin\Debug\net8.0-windows\
 D:\Project\Praktikum PBO SI 2025\praktikum9\praktikum9\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
 D:\Project\Praktikum PBO SI 2025\praktikum9\praktikum9\bin\Debug\net8.0-windows\Sprache.dll
 D:\Project\Praktikum PBO SI 2025\praktikum9\praktikum9\bin\Debug\net8.0-windows\.env
+D:\PraktikumPB02025\praktikum9\bin\Debug\net8.0-windows\praktikum9.exe
+D:\PraktikumPB02025\praktikum9\bin\Debug\net8.0-windows\.env
+D:\PraktikumPB02025\praktikum9\bin\Debug\net8.0-windows\praktikum9.deps.json
+D:\PraktikumPB02025\praktikum9\bin\Debug\net8.0-windows\praktikum9.runtimeconfig.json
+D:\PraktikumPB02025\praktikum9\bin\Debug\net8.0-windows\praktikum9.dll
+D:\PraktikumPB02025\praktikum9\bin\Debug\net8.0-windows\praktikum9.pdb
+D:\PraktikumPB02025\praktikum9\bin\Debug\net8.0-windows\DotNetEnv.dll
+D:\PraktikumPB02025\praktikum9\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\PraktikumPB02025\praktikum9\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PraktikumPB02025\praktikum9\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PraktikumPB02025\praktikum9\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PraktikumPB02025\praktikum9\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\PraktikumPB02025\praktikum9\bin\Debug\net8.0-windows\Npgsql.dll
+D:\PraktikumPB02025\praktikum9\bin\Debug\net8.0-windows\Sprache.dll
+D:\PraktikumPB02025\praktikum9\obj\Debug\net8.0-windows\praktikum9.csproj.AssemblyReference.cache
+D:\PraktikumPB02025\praktikum9\obj\Debug\net8.0-windows\praktikum9.Form1.resources
+D:\PraktikumPB02025\praktikum9\obj\Debug\net8.0-windows\praktikum9.Hallogin.resources
+D:\PraktikumPB02025\praktikum9\obj\Debug\net8.0-windows\praktikum9.csproj.GenerateResource.cache
+D:\PraktikumPB02025\praktikum9\obj\Debug\net8.0-windows\praktikum9.GeneratedMSBuildEditorConfig.editorconfig
+D:\PraktikumPB02025\praktikum9\obj\Debug\net8.0-windows\praktikum9.AssemblyInfoInputs.cache
+D:\PraktikumPB02025\praktikum9\obj\Debug\net8.0-windows\praktikum9.AssemblyInfo.cs
+D:\PraktikumPB02025\praktikum9\obj\Debug\net8.0-windows\praktikum9.csproj.CoreCompileInputs.cache
+D:\PraktikumPB02025\praktikum9\obj\Debug\net8.0-windows\praktikum9.sourcelink.json
+D:\PraktikumPB02025\praktikum9\obj\Debug\net8.0-windows\praktikum9.csproj.Up2Date
+D:\PraktikumPB02025\praktikum9\obj\Debug\net8.0-windows\praktikum9.dll
+D:\PraktikumPB02025\praktikum9\obj\Debug\net8.0-windows\refint\praktikum9.dll
+D:\PraktikumPB02025\praktikum9\obj\Debug\net8.0-windows\praktikum9.pdb
+D:\PraktikumPB02025\praktikum9\obj\Debug\net8.0-windows\praktikum9.genruntimeconfig.cache
+D:\PraktikumPB02025\praktikum9\obj\Debug\net8.0-windows\ref\praktikum9.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("praktikum9")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f451702f4c7afc23ac598edfa1b911af41a32e99")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fc2bececb674709bd387e6eac728c2b89c46065")]
 [assembly: System.Reflection.AssemblyProductAttribute("praktikum9")]
 [assembly: System.Reflection.AssemblyTitleAttribute("praktikum9")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
