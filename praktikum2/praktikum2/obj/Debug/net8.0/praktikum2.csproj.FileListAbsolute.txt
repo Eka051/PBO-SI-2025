@@ -1,0 +1,15 @@
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\praktikum2\praktikum2\obj\Debug\net8.0\praktikum2.GeneratedMSBuildEditorConfig.editorconfig
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\praktikum2\praktikum2\obj\Debug\net8.0\praktikum2.AssemblyInfoInputs.cache
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\praktikum2\praktikum2\obj\Debug\net8.0\praktikum2.AssemblyInfo.cs
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\praktikum2\praktikum2\obj\Debug\net8.0\praktikum2.csproj.CoreCompileInputs.cache
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\praktikum2\praktikum2\obj\Debug\net8.0\praktikum2.sourcelink.json
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\praktikum2\praktikum2\bin\Debug\net8.0\praktikum2.exe
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\praktikum2\praktikum2\bin\Debug\net8.0\praktikum2.deps.json
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\praktikum2\praktikum2\bin\Debug\net8.0\praktikum2.runtimeconfig.json
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\praktikum2\praktikum2\bin\Debug\net8.0\praktikum2.dll
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\praktikum2\praktikum2\bin\Debug\net8.0\praktikum2.pdb
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\praktikum2\praktikum2\obj\Debug\net8.0\praktikum2.dll
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\praktikum2\praktikum2\obj\Debug\net8.0\refint\praktikum2.dll
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\praktikum2\praktikum2\obj\Debug\net8.0\praktikum2.pdb
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\praktikum2\praktikum2\obj\Debug\net8.0\praktikum2.genruntimeconfig.cache
+D:\File Kuliah\ASPRAK PBO\Praktikum PBO SI 2025\praktikum2\praktikum2\obj\Debug\net8.0\ref\praktikum2.dll

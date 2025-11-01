@@ -1,0 +1,14 @@
+D:\File Kuliah\ASPRAK PBO\praktikum1\praktikum1\bin\Debug\net8.0\praktikum1.exe
+D:\File Kuliah\ASPRAK PBO\praktikum1\praktikum1\bin\Debug\net8.0\praktikum1.deps.json
+D:\File Kuliah\ASPRAK PBO\praktikum1\praktikum1\bin\Debug\net8.0\praktikum1.runtimeconfig.json
+D:\File Kuliah\ASPRAK PBO\praktikum1\praktikum1\bin\Debug\net8.0\praktikum1.dll
+D:\File Kuliah\ASPRAK PBO\praktikum1\praktikum1\bin\Debug\net8.0\praktikum1.pdb
+D:\File Kuliah\ASPRAK PBO\praktikum1\praktikum1\obj\Debug\net8.0\praktikum1.GeneratedMSBuildEditorConfig.editorconfig
+D:\File Kuliah\ASPRAK PBO\praktikum1\praktikum1\obj\Debug\net8.0\praktikum1.AssemblyInfoInputs.cache
+D:\File Kuliah\ASPRAK PBO\praktikum1\praktikum1\obj\Debug\net8.0\praktikum1.AssemblyInfo.cs
+D:\File Kuliah\ASPRAK PBO\praktikum1\praktikum1\obj\Debug\net8.0\praktikum1.csproj.CoreCompileInputs.cache
+D:\File Kuliah\ASPRAK PBO\praktikum1\praktikum1\obj\Debug\net8.0\praktikum1.dll
+D:\File Kuliah\ASPRAK PBO\praktikum1\praktikum1\obj\Debug\net8.0\refint\praktikum1.dll
+D:\File Kuliah\ASPRAK PBO\praktikum1\praktikum1\obj\Debug\net8.0\praktikum1.pdb
+D:\File Kuliah\ASPRAK PBO\praktikum1\praktikum1\obj\Debug\net8.0\praktikum1.genruntimeconfig.cache
+D:\File Kuliah\ASPRAK PBO\praktikum1\praktikum1\obj\Debug\net8.0\ref\praktikum1.dll
