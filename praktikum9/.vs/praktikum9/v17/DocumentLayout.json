@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\Praktikum PBO SI 2025\\praktikum9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C786D9F5-CCC8-4512-90DB-B2C1D7A80A74}|praktikum9\\praktikum9.csproj|d:\\project\\praktikum pbo si 2025\\praktikum9\\praktikum9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C786D9F5-CCC8-4512-90DB-B2C1D7A80A74}|praktikum9\\praktikum9.csproj|solutionrelative:praktikum9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C786D9F5-CCC8-4512-90DB-B2C1D7A80A74}|praktikum9\\praktikum9.csproj|d:\\project\\praktikum pbo si 2025\\praktikum9\\praktikum9\\models\\logincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C786D9F5-CCC8-4512-90DB-B2C1D7A80A74}|praktikum9\\praktikum9.csproj|solutionrelative:praktikum9\\models\\logincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 180,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Project\\Praktikum PBO SI 2025\\praktikum9\\praktikum9\\Form1.cs",
+              "RelativeDocumentMoniker": "praktikum9\\Form1.cs",
+              "ToolTip": "D:\\Project\\Praktikum PBO SI 2025\\praktikum9\\praktikum9\\Form1.cs",
+              "RelativeToolTip": "praktikum9\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T15:57:02.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginContext.cs",
+              "DocumentMoniker": "D:\\Project\\Praktikum PBO SI 2025\\praktikum9\\praktikum9\\Models\\LoginContext.cs",
+              "RelativeDocumentMoniker": "praktikum9\\Models\\LoginContext.cs",
+              "ToolTip": "D:\\Project\\Praktikum PBO SI 2025\\praktikum9\\praktikum9\\Models\\LoginContext.cs",
+              "RelativeToolTip": "praktikum9\\Models\\LoginContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T15:56:36.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

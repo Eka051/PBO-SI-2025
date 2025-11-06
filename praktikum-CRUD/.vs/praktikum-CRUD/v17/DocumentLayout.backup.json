@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\Praktikum PBO SI 2025\\praktikum-CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4389B5D0-E80B-4E77-B0D8-8BE776B23F2A}|praktikum-CRUD\\praktikum-CRUD.csproj|d:\\project\\praktikum pbo si 2025\\praktikum-crud\\praktikum-crud\\view\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4389B5D0-E80B-4E77-B0D8-8BE776B23F2A}|praktikum-CRUD\\praktikum-CRUD.csproj|solutionrelative:praktikum-crud\\view\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4389B5D0-E80B-4E77-B0D8-8BE776B23F2A}|praktikum-CRUD\\praktikum-CRUD.csproj|d:\\project\\praktikum pbo si 2025\\praktikum-crud\\praktikum-crud\\view\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4389B5D0-E80B-4E77-B0D8-8BE776B23F2A}|praktikum-CRUD\\praktikum-CRUD.csproj|solutionrelative:praktikum-crud\\view\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4389B5D0-E80B-4E77-B0D8-8BE776B23F2A}|praktikum-CRUD\\praktikum-CRUD.csproj|D:\\Project\\Praktikum PBO SI 2025\\praktikum-CRUD\\praktikum-crud\\view\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4389B5D0-E80B-4E77-B0D8-8BE776B23F2A}|praktikum-CRUD\\praktikum-CRUD.csproj|solutionrelative:praktikum-crud\\view\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4389B5D0-E80B-4E77-B0D8-8BE776B23F2A}|praktikum-CRUD\\praktikum-CRUD.csproj|D:\\Project\\Praktikum PBO SI 2025\\praktikum-CRUD\\praktikum-crud\\view\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4389B5D0-E80B-4E77-B0D8-8BE776B23F2A}|praktikum-CRUD\\praktikum-CRUD.csproj|solutionrelative:praktikum-crud\\view\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4389B5D0-E80B-4E77-B0D8-8BE776B23F2A}|praktikum-CRUD\\praktikum-CRUD.csproj|d:\\project\\praktikum pbo si 2025\\praktikum-crud\\praktikum-crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4389B5D0-E80B-4E77-B0D8-8BE776B23F2A}|praktikum-CRUD\\praktikum-CRUD.csproj|solutionrelative:praktikum-crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4389B5D0-E80B-4E77-B0D8-8BE776B23F2A}|praktikum-CRUD\\praktikum-CRUD.csproj|d:\\project\\praktikum pbo si 2025\\praktikum-crud\\praktikum-crud\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4389B5D0-E80B-4E77-B0D8-8BE776B23F2A}|praktikum-CRUD\\praktikum-CRUD.csproj|solutionrelative:praktikum-crud\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4389B5D0-E80B-4E77-B0D8-8BE776B23F2A}|praktikum-CRUD\\praktikum-CRUD.csproj|d:\\project\\praktikum pbo si 2025\\praktikum-crud\\praktikum-crud\\database\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4389B5D0-E80B-4E77-B0D8-8BE776B23F2A}|praktikum-CRUD\\praktikum-CRUD.csproj|solutionrelative:praktikum-crud\\database\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4389B5D0-E80B-4E77-B0D8-8BE776B23F2A}|praktikum-CRUD\\praktikum-CRUD.csproj|d:\\project\\praktikum pbo si 2025\\praktikum-crud\\praktikum-crud\\.env.example||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4389B5D0-E80B-4E77-B0D8-8BE776B23F2A}|praktikum-CRUD\\praktikum-CRUD.csproj|solutionrelative:praktikum-crud\\.env.example||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4389B5D0-E80B-4E77-B0D8-8BE776B23F2A}|praktikum-CRUD\\praktikum-CRUD.csproj|d:\\project\\praktikum pbo si 2025\\praktikum-crud\\praktikum-crud\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4389B5D0-E80B-4E77-B0D8-8BE776B23F2A}|praktikum-CRUD\\praktikum-CRUD.csproj|solutionrelative:praktikum-crud\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4389B5D0-E80B-4E77-B0D8-8BE776B23F2A}|praktikum-CRUD\\praktikum-CRUD.csproj|d:\\project\\praktikum pbo si 2025\\praktikum-crud\\praktikum-crud\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4389B5D0-E80B-4E77-B0D8-8BE776B23F2A}|praktikum-CRUD\\praktikum-CRUD.csproj|solutionrelative:praktikum-crud\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 180,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Project\\Praktikum PBO SI 2025\\praktikum-CRUD\\praktikum-CRUD\\Controller\\AuthController.cs",
+              "RelativeDocumentMoniker": "praktikum-CRUD\\Controller\\AuthController.cs",
+              "ToolTip": "D:\\Project\\Praktikum PBO SI 2025\\praktikum-CRUD\\praktikum-CRUD\\Controller\\AuthController.cs",
+              "RelativeToolTip": "praktikum-CRUD\\Controller\\AuthController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAywEkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T22:41:20.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\Praktikum PBO SI 2025\\praktikum-CRUD\\praktikum-CRUD\\Program.cs",
+              "RelativeDocumentMoniker": "praktikum-CRUD\\Program.cs",
+              "ToolTip": "D:\\Project\\Praktikum PBO SI 2025\\praktikum-CRUD\\praktikum-CRUD\\Program.cs",
+              "RelativeToolTip": "praktikum-CRUD\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T22:34:31.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "D:\\Project\\Praktikum PBO SI 2025\\praktikum-CRUD\\praktikum-CRUD\\Database\\DbContext.cs",
+              "RelativeDocumentMoniker": "praktikum-CRUD\\Database\\DbContext.cs",
+              "ToolTip": "D:\\Project\\Praktikum PBO SI 2025\\praktikum-CRUD\\praktikum-CRUD\\Database\\DbContext.cs",
+              "RelativeToolTip": "praktikum-CRUD\\Database\\DbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T22:33:43.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": ".env.example",
+              "DocumentMoniker": "D:\\Project\\Praktikum PBO SI 2025\\praktikum-CRUD\\praktikum-CRUD\\.env.example",
+              "RelativeDocumentMoniker": "praktikum-CRUD\\.env.example",
+              "ToolTip": "D:\\Project\\Praktikum PBO SI 2025\\praktikum-CRUD\\praktikum-CRUD\\.env.example",
+              "RelativeToolTip": "praktikum-CRUD\\.env.example",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-06T22:32:21.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Project\\Praktikum PBO SI 2025\\praktikum-CRUD\\praktikum-CRUD\\Models\\User.cs",
+              "RelativeDocumentMoniker": "praktikum-CRUD\\Models\\User.cs",
+              "ToolTip": "D:\\Project\\Praktikum PBO SI 2025\\praktikum-CRUD\\praktikum-CRUD\\Models\\User.cs",
+              "RelativeToolTip": "praktikum-CRUD\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T22:30:06.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "D:\\Project\\Praktikum PBO SI 2025\\praktikum-CRUD\\praktikum-CRUD\\View\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "praktikum-CRUD\\View\\RegisterForm.cs",
+              "ToolTip": "D:\\Project\\Praktikum PBO SI 2025\\praktikum-CRUD\\praktikum-CRUD\\View\\RegisterForm.cs",
+              "RelativeToolTip": "praktikum-CRUD\\View\\RegisterForm.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwDUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T16:33:24.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "D:\\Project\\Praktikum PBO SI 2025\\praktikum-CRUD\\praktikum-CRUD\\View\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "praktikum-CRUD\\View\\RegisterForm.cs",
+              "ToolTip": "D:\\Project\\Praktikum PBO SI 2025\\praktikum-CRUD\\praktikum-CRUD\\View\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "praktikum-CRUD\\View\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T16:23:35.3Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\Project\\Praktikum PBO SI 2025\\praktikum-CRUD\\praktikum-CRUD\\View\\LoginForm.cs",
+              "RelativeDocumentMoniker": "praktikum-CRUD\\View\\LoginForm.cs",
+              "ToolTip": "D:\\Project\\Praktikum PBO SI 2025\\praktikum-CRUD\\praktikum-CRUD\\View\\LoginForm.cs",
+              "RelativeToolTip": "praktikum-CRUD\\View\\LoginForm.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwDIAAACdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T16:05:39.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": ".env",
+              "DocumentMoniker": "D:\\Project\\Praktikum PBO SI 2025\\praktikum-CRUD\\praktikum-CRUD\\.env",
+              "RelativeDocumentMoniker": "praktikum-CRUD\\.env",
+              "ToolTip": "D:\\Project\\Praktikum PBO SI 2025\\praktikum-CRUD\\praktikum-CRUD\\.env",
+              "RelativeToolTip": "praktikum-CRUD\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-06T15:48:36.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\Project\\Praktikum PBO SI 2025\\praktikum-CRUD\\praktikum-CRUD\\View\\LoginForm.cs",
+              "RelativeDocumentMoniker": "praktikum-CRUD\\View\\LoginForm.cs",
+              "ToolTip": "D:\\Project\\Praktikum PBO SI 2025\\praktikum-CRUD\\praktikum-CRUD\\View\\LoginForm.cs [Design]",
+              "RelativeToolTip": "praktikum-CRUD\\View\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T15:37:40.022Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

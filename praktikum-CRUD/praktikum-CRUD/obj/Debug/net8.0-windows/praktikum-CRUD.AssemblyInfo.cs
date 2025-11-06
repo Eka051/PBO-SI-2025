@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("praktikum9")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("praktikum-CRUD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+499af54fe6fbf012c3b523a6af753bdfb43ae103")]
-[assembly: System.Reflection.AssemblyProductAttribute("praktikum9")]
-[assembly: System.Reflection.AssemblyTitleAttribute("praktikum9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4360c1439980c6f7d04f01b5b3d18da53b7f12d")]
+[assembly: System.Reflection.AssemblyProductAttribute("praktikum-CRUD")]
+[assembly: System.Reflection.AssemblyTitleAttribute("praktikum-CRUD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
