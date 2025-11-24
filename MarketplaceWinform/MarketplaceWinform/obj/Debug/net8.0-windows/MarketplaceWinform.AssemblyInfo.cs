@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MarketplaceWinform")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+234782590cee39b471c4b5888cda670cd0a3ac86")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b97267aed5a777157ae576b9d2fc7402e20c9584")]
 [assembly: System.Reflection.AssemblyProductAttribute("MarketplaceWinform")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MarketplaceWinform")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
